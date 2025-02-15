@@ -94,5 +94,4 @@ function Drink(name){
 let chai = new Drink("Chai");
 console.log(chai)
 let coffee = Drink("Coffee");
-
     
